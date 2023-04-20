@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/weather-app-react/static/css/main.e221ebc4.css",
+    "main.js": "/weather-app-react/static/js/main.24f913ec.js",
+    "static/media/ms-how-blur-bg-cover.jpeg": "/weather-app-react/static/media/ms-how-blur-bg-cover.b49178bcde80e9d8ad28.jpeg",
+    "index.html": "/weather-app-react/index.html",
+    "main.e221ebc4.css.map": "/weather-app-react/static/css/main.e221ebc4.css.map",
+    "main.24f913ec.js.map": "/weather-app-react/static/js/main.24f913ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e221ebc4.css",
+    "static/js/main.24f913ec.js"
+  ]
+}
